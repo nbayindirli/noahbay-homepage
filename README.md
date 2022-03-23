@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# noahbay-homepage: [noahbay.io](https://www.noahbay.io)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Homepage for the [noahbay.io](https://www.noahbay.io) website.
+
+---
 
 ## Available Scripts
 
