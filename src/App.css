@@ -61,6 +61,10 @@ body {
     margin-bottom: 0;
 }
 
+#title span {
+    color: grey;
+}
+
 #disclaimer {
     font-size: x-small;
     color: rgb(105, 105, 105);
@@ -125,6 +129,14 @@ body {
     -ms-text-fill-color: transparent;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
+}
+
+.link-wildcard {
+    -moz-text-fill-color: grey;
+    -o-text-fill-color: grey;
+    -ms-text-fill-color: grey;
+    -webkit-text-fill-color: grey;
+    color: grey;
 }
 
 @keyframes App-logo-spin {

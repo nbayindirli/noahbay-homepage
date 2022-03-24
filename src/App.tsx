@@ -9,16 +9,16 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
 
                 <h1 id="title">
-                    welcome to <a
+                    welcome to <span>*</span><a
                         className="App-link App-link-title"
                         href=""
                         //   target="_blank"
                         rel="noopener noreferrer"
                     >
-                        noahbay<span>.</span>io
-                    </a>*
+                        .noahbay<span>.</span>io
+                    </a>
                 </h1>
-                <p id="disclaimer"><span>*</span>my <span>frontend</span> personality</p>
+                <p id="disclaimer">...my <span>frontend</span> personality</p>
 
                 <p>
                     Available subdomains:
@@ -29,7 +29,7 @@ function App() {
                     //   target="_blank"
                     rel="noopener noreferrer"
                 >
-                    greet.*
+                    greet.<span className="link-wildcard">*</span>
                 </a>
 
                 <p>
