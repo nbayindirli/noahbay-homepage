@@ -8,7 +8,7 @@ function App() {
 
                 <img src={logo} className="App-logo" alt="logo" />
 
-                <h1>
+                <h1 id="title">
                     welcome to <a
                         className="App-link App-link-title"
                         href=""
@@ -16,8 +16,9 @@ function App() {
                         rel="noopener noreferrer"
                     >
                         noahbay<span>.</span>io
-                    </a>
+                    </a>*
                 </h1>
+                <p id="disclaimer"><span>*</span>my <span>frontend</span> personality</p>
 
                 <p>
                     Available subdomains:
@@ -36,19 +37,43 @@ function App() {
                 </p>
                 <a
                     className="App-link"
-                    href="https://pawzone.io/"
-                    //   target="_blank"
+                    href="https://www.samcap.ltd/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    samcap.ltd
+                </a>
+                <a
+                    className="App-link"
+                    href="https://www.justwalkout.com/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    justwalkout.com
+                </a>
+                <a
+                    className="App-link"
+                    href="https://developer.amazon.com/alexa/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    developer.amazon.com/alexa
+                </a>
+                <a
+                    className="App-link"
+                    href="https://www.pawzone.io/"
+                    target="_blank"
                     rel="noopener noreferrer"
                 >
                     pawzone.io
                 </a>
                 <a
                     className="App-link"
-                    href="https://samcap.ltd/"
-                    //   target="_blank"
+                    href="https://www.pawzaar.io/"
+                    target="_blank"
                     rel="noopener noreferrer"
                 >
-                    samcap.ltd
+                    pawzaar.io [coming soon]
                 </a>
 
                 <p>
@@ -57,7 +82,7 @@ function App() {
                 <a
                     className="App-link"
                     href="https://github.com/nbayindirli"
-                    //   target="_blank"
+                    target="_blank"
                     rel="noopener noreferrer"
                 >
                     github
@@ -65,7 +90,7 @@ function App() {
                 <a
                     className="App-link"
                     href="https://www.linkedin.com/in/noahbay/"
-                    //   target="_blank"
+                    target="_blank"
                     rel="noopener noreferrer"
                 >
                     linkedin
@@ -73,7 +98,7 @@ function App() {
                 <a
                     className="App-link"
                     href="https://twitter.com/Noah_Bayindirli"
-                    //   target="_blank"
+                    target="_blank"
                     rel="noopener noreferrer"
                 >
                     twitter
