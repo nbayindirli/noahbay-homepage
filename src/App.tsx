@@ -25,7 +25,7 @@ function App() {
                 <FadeIn>
                     <div>
                         <p>
-                            Available subdomains:
+                            available subdomains:
                         </p>
                         <div className='linkHover'>
                             <a
@@ -41,7 +41,7 @@ function App() {
 
                     <div>
                         <p>
-                            Additional websites:
+                            additional websites:
                         </p>
                         <div className='linkHover'>
                             <a
@@ -97,7 +97,7 @@ function App() {
 
                     <div>
                         <p>
-                            Other links:
+                            other links:
                         </p>
                         <div className='linkHover'>
                             <a
