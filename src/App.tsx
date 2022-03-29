@@ -46,11 +46,31 @@ function App() {
                         <div className='linkHover'>
                             <a
                                 className='App-link'
-                                href='https://www.samcap.ltd/'
+                                href='https://www.pawzaar.io/'
                                 target='_blank'
                                 rel='noopener noreferrer'
                             >
-                                samcap.ltd
+                                pawzaar.io [coming soon]
+                            </a>
+                        </div>
+                        <div className='linkHover'>
+                            <a
+                                className='App-link'
+                                href='https://www.pawfi.io/'
+                                target='_blank'
+                                rel='noopener noreferrer'
+                            >
+                                pawfi.io [coming soon]
+                            </a>
+                        </div>
+                        <div className='linkHover'>
+                            <a
+                                className='App-link'
+                                href='https://www.pawzone.io/'
+                                target='_blank'
+                                rel='noopener noreferrer'
+                            >
+                                pawzone.io
                             </a>
                         </div>
                         <div className='linkHover'>
@@ -76,21 +96,11 @@ function App() {
                         <div className='linkHover'>
                             <a
                                 className='App-link'
-                                href='https://www.pawzone.io/'
+                                href='https://www.samcap.ltd/'
                                 target='_blank'
                                 rel='noopener noreferrer'
                             >
-                                pawzone.io
-                            </a>
-                        </div>
-                        <div className='linkHover'>
-                            <a
-                                className='App-link'
-                                href='https://www.pawzaar.io/'
-                                target='_blank'
-                                rel='noopener noreferrer'
-                            >
-                                pawzaar.io [coming soon]
+                                samcap.ltd
                             </a>
                         </div>
                     </div>
