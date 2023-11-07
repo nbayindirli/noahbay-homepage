@@ -20,7 +20,7 @@ function App() {
                         .noahbay<span>.</span>io
                     </a>
                 </h1>
-                {/* <p id='disclaimer'>..currently under construction..</p> */}
+                <p id='disclaimer'>enhanced descriptions & photography coming soon</p>
 
                 <p id='about' className='small'>hi, i'm Noah</p>
                 <p id='about' className='small'>i spend my time making life safer and easier for humans through the use of software, hardware, machine intelligence, and decentralized engineering</p>
