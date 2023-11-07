@@ -31,7 +31,22 @@ function App() {
                                   target='_blank'
                                 rel='noopener noreferrer'
                             >Prime Protocol</a> as a senior blockchain and founding engineer</p>
-                <p id='about'>i previously worked on Amazon Go & Alexa as a senior fullstack software engineer</p>
+                <p id='about'>i previously worked on <a
+                                className='App-link'
+                                href='https://www.youtube.com/watch?v=NrmMk1Myrxc'
+                                  target='_blank'
+                                rel='noopener noreferrer'
+                            >Amazon Go</a>, <a
+                            className='App-link'
+                            href='https://www.youtube.com/watch?v=xH_SVNVIfzk'
+                              target='_blank'
+                            rel='noopener noreferrer'
+                        >Amazon One</a>, & <a
+                            className='App-link'
+                            href='https://alexa.amazon.com/'
+                              target='_blank'
+                            rel='noopener noreferrer'
+                        >Alexa</a> as a senior fullstack software engineer</p>
                 <p id='about'>my technical passions lie with decentralized engineering and machine intelligence</p>
                 <p id='about'>otherwise, i spend my time skiing, climbing, hiking, and playing guitar</p>
                 <p></p>
@@ -39,25 +54,10 @@ function App() {
                 <p></p>
 
                 <FadeIn>
-                    <div>
-                        <p>
-                            available subdomains:
-                        </p>
-                        <div className='linkHover'>
-                            <a
-                                className='App-link'
-                                href='https://greet.noahbay.io'
-                                //   target='_blank'
-                                rel='noopener noreferrer'
-                            >
-                                greet.<span className='link-wildcard'>*</span>
-                            </a>
-                        </div>
-                    </div>
 
                     <div>
                         <p>
-                            additional work:
+                            some work:
                         </p>
                         {/* <div className='linkHover'>
                             <a
@@ -133,7 +133,7 @@ function App() {
 
                     <div>
                         <p>
-                            other links:
+                            some links:
                         </p>
                         <div className='linkHover'>
                             <a
@@ -165,8 +165,48 @@ function App() {
                                 twitter
                             </a>
                         </div>
+                        <div className='linkHover'>
+                            <a
+                                className='App-link'
+                                href='https://open.spotify.com/user/1222775567?si=a70f3a9493cb4462'
+                                target='_blank'
+                                rel='noopener noreferrer'
+                            >
+                                spotify
+                            </a>
+                        </div>
+                        <div className='linkHover'>
+                            <a
+                                className='App-link'
+                                href='https://soundcloud.com/noahbay'
+                                target='_blank'
+                                rel='noopener noreferrer'
+                            >
+                                soundcloud
+                            </a>
+                        </div>
                     </div>
+
+                    <div>
+                        <p>
+                            some subdomains:
+                        </p>
+                        <div className='linkHover'>
+                            <a
+                                className='App-link'
+                                href='https://greet.noahbay.io'
+                                //   target='_blank'
+                                rel='noopener noreferrer'
+                            >
+                                greet.<span className='link-wildcard'>*</span>
+                            </a>
+                        </div>
+                    </div>
+
                 </FadeIn>
+
+                <p></p>
+
             </header>
         </div>
     );
