@@ -27,16 +27,21 @@ function App() {
                 <p></p>
                 <p id='about'>i currently work on <a
                                 className='App-link'
+                                href='https://nocturne.xyz/'
+                                  target='_blank'
+                                rel='noopener noreferrer'
+                            >Nocturne</a> & <a
+                                className='App-link'
                                 href='https://www.primeprotocol.xyz/'
                                   target='_blank'
                                 rel='noopener noreferrer'
                             >Prime Protocol</a> as a senior blockchain and founding engineer</p>
                 <p id='about'>i previously worked on <a
-                                className='App-link'
-                                href='https://www.youtube.com/watch?v=NrmMk1Myrxc'
-                                  target='_blank'
-                                rel='noopener noreferrer'
-                            >Amazon Go</a>, <a
+                            className='App-link'
+                            href='https://www.youtube.com/watch?v=NrmMk1Myrxc'
+                                target='_blank'
+                            rel='noopener noreferrer'
+                        >Amazon Go</a>, <a
                             className='App-link'
                             href='https://www.youtube.com/watch?v=xH_SVNVIfzk'
                               target='_blank'
